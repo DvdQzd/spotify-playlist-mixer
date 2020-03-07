@@ -1,0 +1,4 @@
+{
+  "token": "",
+  "permissionUrl": "https://accounts.spotify.com/authorize?client_id={client_id}&redirect_uri={redirect_uri}&response_type=token&scope=playlist-read-private%20playlist-modify-public%20playlist-modify-private%20playlist-read-collaborative"
+}

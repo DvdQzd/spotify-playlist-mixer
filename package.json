@@ -1,0 +1,12 @@
+{
+  "name": "spotify-playlist-mixer",
+  "version": "1.0.0",
+  "description": "It merges Spotify playlist into one, for parties.",
+  "main": "mixer.js",
+  "author": "BloodyLink",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "axios-retry": "^3.1.2"
+  }
+}
