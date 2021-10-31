@@ -36,7 +36,7 @@ const getPlaylistTracks = async () => {
       });
       response.data.tracks.items.forEach(t => {
         tracks.push(t.track.uri);
-        await addTracksToPlaylist(tracks);
+        addTracksToPlaylist(tracks);
         tracks = [];
       });
       
